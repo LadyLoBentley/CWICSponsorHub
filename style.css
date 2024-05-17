@@ -68,7 +68,7 @@ body {
 @media (max-width: 600px) {
     .montserrat-main-title,
     .monterrat-caption {
-        font-size: 28px; /* Slightly smaller font sizes on mobile */
+        font-size: 30px; /* Slightly smaller font sizes on mobile */
     }
 
     .montserrat-description {
