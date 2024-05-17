@@ -66,9 +66,7 @@ body {
 
 /* Media Queries for mobile devices */
 @media (max-width: 600px) {
-    .montserrat-main-title {
-        font-size: 28px;
-    }
+    .montserrat-main-title,
     .monterrat-caption {
         font-size: 24px; /* Slightly smaller font sizes on mobile */
     }
