@@ -10,7 +10,7 @@ body {
     text-align: center;
     font-weight: 700;
     font-size: 32px;
-    padding: 20px 10px;
+    padding: 15px 10px;
 }
 
 .image {
@@ -67,8 +67,8 @@ body {
 /* Media Queries for mobile devices */
 @media (max-width: 600px) {
     .montserrat-main-title {
-         font-size: 27px;
-     }
+        font-size: 28px;
+    }
     .monterrat-caption {
         font-size: 24px; /* Slightly smaller font sizes on mobile */
     }
